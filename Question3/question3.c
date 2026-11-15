@@ -2,7 +2,7 @@
 // roll#: 26K-0025
 // department: BAI_1A
 // subject task: Programming Fundamnetals theory assignment_2
-//Question3.c
+//Question3: Greenhouse Temperature Monitoring System
 
 #include <stdio.h>
 
