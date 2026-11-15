@@ -2,7 +2,8 @@
 // roll#: 26K-0025
 // department: BAI_1A
 // subject task: Programming Fundamnetals theory assignment_2
-//Question1_c Code
+//Question2: Amicable pairs
+
 
 
 
